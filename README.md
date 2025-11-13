@@ -1,19 +1,21 @@
-Data alchemist-- AI-based e-commerce insights platform.
+# **Data alchemist-- AI-based e-commerce insights platform.**
 
-The raw e-commerce data can be converted into actionable business insights with an agentic AI analyst developed with Gemini, Streamlit, and Python.  
+The raw e-commerce data can be converted into actionable business insights with an **agentic AI analyst** developed with **Gemini, Streamlit, and Python**.  
 It is a place that allows you to have a conversation with an AI, write code that builds analytics dynamically, and visualize it in real-time, with zero manual effort on exploring the Brazilian Olist dataset.
 
-Features
-Natural Language Data Analysis -- ask everything, receive ideas immediately.  
-AI Code Generation Gemini generates Pandas/Matplotlib/Plotly code.  
-Automatic Code Execution -- safe sandboxed executable.  
-Smart KPI Dashboard - orders, customers, revenue, reviews.  
-Stunning UI 1000-- neon mouse recoil, animated gradient title, dark theme.  
-Interactive Visualizations bar charts, pie charts, hybrid charts.  
-Chat Memory re-run old analyses Chat Memory  
-Fully Agentic Workflow - generate - explain - reason - execute.  
+# **Features**
+**Natural Language Data Analysis** -- ask everything, receive ideas immediately.  
+**AI Code Generation** — Gemini generates Pandas/Matplotlib/Plotly code.  
+**Automatic Code Execution** -- safe sandboxed executable.  
+**Smart KPI Dashboard** - orders, customers, revenue, reviews.  
+**Stunning UI 1000** -- neon mouse recoil, animated gradient title, dark theme.  
+**Interactive Visualizations** — bar charts, pie charts, hybrid charts.  
+**Chat Memory** — re-run old analyses Chat Memory.  
+**Fully Agentic Workflow** - generate - explain - reason - execute.  
 
-Project Structure
+---
+
+# **Project Structure**
 maersk-ai/
 │
 ├── app.py                       # Main Streamlit UI
