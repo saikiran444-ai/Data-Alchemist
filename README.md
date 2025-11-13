@@ -14,7 +14,6 @@ It is a place that allows you to have a conversation with an AI, write code that
 **Fully Agentic Workflow** - generate - explain - reason - execute.  
 
 ---
-
 # **Project Structure**
 maersk-ai/
 │
@@ -36,7 +35,6 @@ maersk-ai/
 │   └── chat_memory.py           # Saves/loads chat memory
 │
 └── logs/                        # Logs folder
-
 
 ## How to Run the App
 
