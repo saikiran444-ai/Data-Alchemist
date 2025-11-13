@@ -41,9 +41,7 @@ Technologies Used
 	•	Pandas
 	•	Matplotlib
 	•	Plotly
-	•	HTML/CSS/JS<img width="1420" height="623" alt="Screenshot 2025-11-13 at 12 54 53 PM" src="https://github.com/user-attachments/assets/7c60fd63-4dbc-4ec8-8f4e-a91efa23146d" />
-<img width="1465" height="872" alt="Screenshot 2025-11-13 at 12 54 39 PM" src="https://github.com/user-attachments/assets/3acbf61c-2912-4b47-aceb-342882909f75" />
-
+	•	HTML/CSS/JS
 	•	JSON Storage
 
 Future Improvements -
@@ -51,9 +49,5 @@ Future Improvements -
 	*	 Auto-dashboard generation from a single prompt
 	*	 User authentication
 	*	 Real-time APIs instead of static CSV data
-#Screenshots
-<img width="647" height="701" alt="Screenshot 2025-11-13 at 12 55 37 PM" src="https://github.com/user-attachments/assets/a69d4fd1-b556-451c-95b8-39e3af5d713e" />
-![Uploading Screenshot 2025-11-13 at 12.54.53 PM.png…]()
-<img width="1465" height="872" alt="Screenshot 2025-11-13 at 12 54 39 PM" src="https://github.com/user-attachments/assets/cbbe7a3b-3c9b-449b-82a7-2006690848a5" />
 
 	
