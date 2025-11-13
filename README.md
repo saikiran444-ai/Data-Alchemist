@@ -13,28 +13,7 @@ It is a place that allows you to have a conversation with an AI, write code that
 **Chat Memory** — re-run old analyses Chat Memory.  
 **Fully Agentic Workflow** - generate - explain - reason - execute.  
 
----
-# **Project Structure**
-maersk-ai/
-│
-├── app.py                       # Main Streamlit UI
-├── api_server.py                # Gemini backend server
-├── check.py                     # Debug tool (optional)
-├── test_app.py                  # Test file (optional)
-├── chat_history.json            # Stored chat sessions
-│
-├── data/                        # Olist dataset (.csv files)
-│   ├── olist_orders_dataset.csv
-│   ├── olist_order_payments_dataset.csv
-│   ├── olist_customers_dataset.csv
-│   └── …
-│
-├── utils/
-│   ├── gemini_api.py            # Gemini API wrapper
-│   ├── code_executor.py         # Executes generated code
-│   └── chat_memory.py           # Saves/loads chat memory
-│
-└── logs/                        # Logs folder
+
 
 ## How to Run the App
 
@@ -62,7 +41,9 @@ Technologies Used
 	•	Pandas
 	•	Matplotlib
 	•	Plotly
-	•	HTML/CSS/JS
+	•	HTML/CSS/JS<img width="1420" height="623" alt="Screenshot 2025-11-13 at 12 54 53 PM" src="https://github.com/user-attachments/assets/7c60fd63-4dbc-4ec8-8f4e-a91efa23146d" />
+<img width="1465" height="872" alt="Screenshot 2025-11-13 at 12 54 39 PM" src="https://github.com/user-attachments/assets/3acbf61c-2912-4b47-aceb-342882909f75" />
+
 	•	JSON Storage
 
 Future Improvements -
@@ -70,3 +51,9 @@ Future Improvements -
 	*	 Auto-dashboard generation from a single prompt
 	*	 User authentication
 	*	 Real-time APIs instead of static CSV data
+#Screenshots
+<img width="647" height="701" alt="Screenshot 2025-11-13 at 12 55 37 PM" src="https://github.com/user-attachments/assets/a69d4fd1-b556-451c-95b8-39e3af5d713e" />
+![Uploading Screenshot 2025-11-13 at 12.54.53 PM.png…]()
+<img width="1465" height="872" alt="Screenshot 2025-11-13 at 12 54 39 PM" src="https://github.com/user-attachments/assets/cbbe7a3b-3c9b-449b-82a7-2006690848a5" />
+
+	
